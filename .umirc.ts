@@ -9,5 +9,5 @@ export default defineConfig({
     // { path: '/app-react17', component: '@/pages/microAppTest' },
   ],
   fastRefresh: {},
-  layout: {},
+  // layout: {},
 });
